@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "name":"fayaz",
+        "Mob":03006545376,
+        "address":{
+            "District":"hangu",
+            "City":"kohat"
+        },
+        "company":{
+            "name":"ervin hover",
+            "catchPhrase":"multilayered"
+        }
+    },
+    {
+        "id": 2,
+        "name": "fayaz",
+        "Mob": 03006545376,
+        "address": {
+            "District": "hangu",
+            "City": "kohat"
+        },
+        "company": {
+            "name": "ervin hover",
+            "catchPhrase": "multilayered"
+        }
+    },
+    {
+        "id": 3,
+        "name": "fayaz",
+        "Mob": 03006545376,
+        "address": {
+            "District": "hangu",
+            "City": "kohat"
+        },
+        "company": {
+            "name": "ervin hover",
+            "catchPhrase": "multilayered"
+        }
+    }
+    
+]
